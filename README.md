@@ -20,13 +20,7 @@ To explore the MetaVerse Landing Page locally on your machine, follow these step
 
 ## Contributing
 
-Contributions are highly appreciated! If you would like to contribute to the MetaVerse Landing Page, please adhere to the following guidelines:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/your-feature-name`
-3. Commit your changes: `git commit -am 'Add your feature'`
-4. Push to the branch: `git push origin feature/your-feature-name`
-5. Submit a pull request.
+As Trektopia Landing Page is a personal project showcasing my front-end development skills, contributions are not currently being accepted. However, feedback and suggestions are always welcome.
 
 ## License
 
